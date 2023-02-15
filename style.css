@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+}
+
+.container {
+  padding: 2rem;
+  background-color: beige;
+  display: grid;
+  gap: 2rem;
+}
+
+.article-wrapper {
+  width: 80%;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: aliceblue;
+}
